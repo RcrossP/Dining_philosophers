@@ -3,5 +3,5 @@
 ### Requirement 
 > gcc 
 ### Run!
->\> make
+>\> make <br>
 >\> ./Dining_philosophers
